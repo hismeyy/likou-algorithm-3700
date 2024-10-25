@@ -4,7 +4,7 @@ import java.util.HashMap;
  * 13. 罗马数字转整数
  * https://leetcode.cn/problems/roman-to-integer/description/?envType=problem-list-v2&envId=hash-table&difficulty=EASY
  */
-public class Solution_0002 {
+public class Solution_0013 {
     /**
      * I             1
      * V             5
