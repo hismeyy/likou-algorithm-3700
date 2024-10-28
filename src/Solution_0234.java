@@ -1,5 +1,9 @@
 import java.util.ArrayList;
 
+/**
+ * 234. 回文链表
+ * https://leetcode.cn/problems/palindrome-linked-list/description/?envType=problem-list-v2&envId=two-pointers&difficulty=EASY
+ */
 public class Solution_0234 {
     public boolean isPalindrome(ListNode head) {
         ArrayList<Integer> arrayList = new ArrayList<>();
